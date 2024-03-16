@@ -1,3 +1,3 @@
-Music Player
-Music Player in HTML CSS ANd JAVASCRIPT
+# Music Player
+Music Player in HTML CSS and JAVASCRIPT
 Must Try
